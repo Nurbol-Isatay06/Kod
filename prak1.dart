@@ -5,7 +5,7 @@ void rand(List a,int x, int y){
   for(int i = 0; i < a.length; i++){
     a[i] = Random().nextInt(y+1-x)+x;
   }//3
-
+//ffff
 }
 
 int maxValue(List a){
