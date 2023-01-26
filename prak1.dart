@@ -4,8 +4,8 @@ import 'dart:io';
 void rand(List a,int x, int y){
   for(int i = 0; i < a.length; i++){
     a[i] = Random().nextInt(y+1-x)+x;
-  }
-tt5t55t5f
+  }//3
+
 }
 
 int maxValue(List a){
